@@ -2,7 +2,7 @@
 Image Processing, Capstone #6 Data Science Bootcamp, Task 46
 
 IMAGE PROCESSING TASK.
-
+  - 2 FILES; csv FILE & Jupyter FILE
 BRIEF FOR TASK DETAILS SET-OUT BELOW:-
 
 Compulsory Task 1
